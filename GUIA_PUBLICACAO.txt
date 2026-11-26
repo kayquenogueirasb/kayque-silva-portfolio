@@ -1,0 +1,33 @@
+PASSO A PASSO — PUBLICAR O PORTFÓLIO NO GITHUB PAGES
+
+1. Crie uma conta em https://github.com/ (caso ainda não tenha).
+2. Entre na conta e clique no botão + > New repository.
+3. Nome do repositório: kayque-silva-portfolio
+4. Marque Public e clique em Create repository. Não precisa adicionar README, pois o projeto já tem um.
+5. Extraia o arquivo portfolio-kayque.zip no computador.
+6. Abra a pasta portfolio-kayque no Visual Studio Code.
+7. No repositório recém-criado no GitHub, escolha Add file > Upload files.
+8. Arraste os arquivos index.html, estilo.css, script.js e README.md (os arquivos de dentro da pasta, não a pasta zipada).
+9. Escreva uma mensagem como "Adiciona portfólio pessoal" e clique em Commit changes.
+10. No GitHub, abra Settings > Pages.
+11. Em Build and deployment, selecione Deploy from a branch.
+12. Em Branch, selecione main e a pasta / (root). Clique em Save.
+13. Aguarde alguns minutos e atualize a página. O GitHub exibirá o endereço publicado.
+
+ENDEREÇOS
+Repositório: https://github.com/SEU-USUARIO/kayque-silva-portfolio
+Site: https://SEU-USUARIO.github.io/kayque-silva-portfolio/
+
+Troque SEU-USUARIO pelo nome exato da sua conta GitHub. Os endereços acima são modelos, não links publicados.
+
+ANTES DE ENTREGAR
+- Abra o link do site em uma janela anônima e teste.
+- Teste os quatro links do menu.
+- Teste o formulário com campos vazios, e-mail inválido e dados válidos.
+- Teste o menu em largura de celular e o botão de tema.
+- Faça capturas de tela de cada seção com o endereço do GitHub Pages visível na barra do navegador.
+- No documento modelo, preencha RU e links reais, substitua a imagem de exemplo da estrutura de pastas por uma captura sua e insira os quatro prints.
+- Exporte o documento final para PDF e confira todos os links antes de enviar ao AVA.
+
+OBSERVAÇÃO
+O formulário apenas valida os campos e simula o envio, conforme o enunciado. Ele não envia e-mails nem armazena mensagens em um servidor.
